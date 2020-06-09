@@ -7,7 +7,7 @@ When we are not able to randomly assign each individual to a treatment or contro
 ## Case study: Moneyball
 
 ```{r,echo=FALSE}
-img_path <- "regression/img/"
+img_path <- "./img/"
 ```
 
 _Moneyball: The Art of Winning an Unfair Game_ is a book by Michael Lewis about the Oakland Athletics (A's) baseball team and its general manager, the person tasked with building the team, Billy Beane. 
